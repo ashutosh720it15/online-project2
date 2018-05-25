@@ -1,2 +1,2 @@
-# online-project2
+# online-shopping system
 just another repository
